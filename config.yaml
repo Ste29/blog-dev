@@ -81,7 +81,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: This blog is a sort "knowledge stash". A log of my journey in the industry. You will find posts about Kubernetes, Docker, Spring Boot, Kafka, CI/CD Pipelines and other stuff. Writing things down helps memorizing, offloads brain capacity and can help others.
+        Content: This blog is a sort "knowledge stash". A log of my journey in the consulting industry. You will find a variety of posts from Data Science to Data Engineering, from the classical machine learning approaches to the latest data architecture pattern.
 
     socialIcons:
         - name: linkedin
@@ -130,7 +130,7 @@ menu:
           url: /categories/
         - identifier: whoam
           name: whoami
-          url: /posts/whoami
+          url: https://github.com/Ste29/blog-dev/tree/main/static/CV-Villata-Stefano.pdf
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

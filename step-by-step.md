@@ -25,6 +25,13 @@ public folder
 git remote add origin git@github.com:username/repo.git ---> add a repo to your git project if you didn't start cloning it
 
 
+To embed pdf in your Hugo blog:
+16. copy this file in layout/shortcodes in your dev repo: https://github.com/anvithks/hugo-embed-pdf-shortcode/blob/master/layouts/shortcodes/embed-pdf.html
+17. from the same repo copy the pdf.js library files from ./static/js/pdf-js to ./static/js
+
+To use spoilers:
+18. copy this file in layouts/shortcodes in your dev repo: https://github.com/H4tch/hugo-plus/blob/master/layouts/shortcodes/spoiler.html
+19. 
 
 -----------------------------------------------
 

@@ -130,7 +130,7 @@ menu:
           url: /categories/
         - identifier: whoam
           name: whoami
-          url: https://github.com/Ste29/blog-dev/tree/main/static/CV-Villata-Stefano.pdf
+          url: https://raw.githubusercontent.com/Ste29/blog-dev/4e104b05488621bf2c5f8f792c5a314389ffd04c/static/CV-Villata-Stefano.pdf
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:

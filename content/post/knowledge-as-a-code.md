@@ -22,7 +22,7 @@ However, writing on paper has several downsides:
 Due to the problems listed in previous section, I slowly started writing my notes on my pc.
 I tried several stuffs from plain words file, to latex, onenote but the most handful one was
  [obsidian](https://obsidian.md/).
- ![https://github.com/Ste29/blog-dev/tree/main/static/img/blog/obsidian.jpeg]
+ ![Obsidian main page](https://raw.githubusercontent.com/Ste29/blog-dev/main/static/img/blog/obsidian.jpeg)
 Obsidian is a tool which allows to create notes in markdown and connect different files in a powerful knowledge
 graph.
 It is based on [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) theory in order to associate notes

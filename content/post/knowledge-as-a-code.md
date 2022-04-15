@@ -12,7 +12,7 @@ categories: [Blog]
 
 ## Paper
 During my school years I used to learn new stuffs writing them down on papers. Writing always helped me 
-organizing concepts and repeating words.
+organizing concepts and memorizing words.
 However, writing on paper has several downsides:
 1. It requires a lot of paper
 2. Papers occupies space and get lost, or you don't have the right book when you need it
@@ -20,7 +20,7 @@ However, writing on paper has several downsides:
 
 ## Obsidian
 Due to the problems listed in previous section, I slowly started writing my notes on my pc.
-I tried several stuffs from plain words file, to latex, onenote but the most handful one was
+I tried several softwares: plain words file, latex, onenote but the most handful one was
  [obsidian](https://obsidian.md/).
  ![Obsidian main page](https://raw.githubusercontent.com/Ste29/blog-dev/main/static/img/blog/obsidian.jpeg)
 Obsidian is a tool which allows to create notes in markdown and connect different files in a powerful knowledge
@@ -51,13 +51,12 @@ In order to solve the second problem I started uploading my Obsidian vaults on G
 Creating a blog, while continuing to use Obsidian, allows me several advantages:
 1. To store consolidated notes
 2. To share knowledge with other people and receving from them a feedback
-3. Versioning what I know exactly how I would do with some code i wrote
+3. Versioning what I know exactly how I would do with some code I wrote
 
 The 3rd benefit is really interesting.
-It allows you to check how your knowledge on a certain topic evolves with time, what you discover and what
-you thought it was true and it revealed false.
+It allows me to check how my knowledge on a certain topic evolves with time, what I discovered and what
+I thought it was true and it revealed false.
 
-Also, in my opinion knowledge as a Code is strictly related with recent trends used in 
-[code documentation](https://sysdig.com/blog/adopting-docs-as-code/) which is closely related with 
-CI/CD pipelines and automating knowledge transfer from code repos to something more narrow and easily
-accessible.
+Also, in my opinion Knowledge as a Code is strictly related with recent trends used in 
+[code documentation](https://sysdig.com/blog/adopting-docs-as-code/) which introduce in knowledge sharing concepts like 
+CI/CD pipelines and automatic learning transfer from code repos to something more narrow and easily accessible.

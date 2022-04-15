@@ -81,7 +81,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: This blog is a sort "knowledge stash". A log of my journey in the consulting industry. You will find a variety of posts from Data Science to Data Engineering, from the classical machine learning approaches to the latest data architecture pattern.
+        Content: This blog is a sort "knowledge stash". A log of my journey in the consulting industry. You will find a variety of posts from Data Science to Data Engineering, from the classical machine learning approaches to the latest data architecture patterns.
 
     socialIcons:
         - name: linkedin
@@ -91,13 +91,13 @@ params:
         - name: github
           url: "https://github.com/Ste29"
 
-    analytics:
-        google:
-            SiteVerificationTag: "XYZabc"
-        bing:
-            SiteVerificationTag: "XYZabc"
-        yandex:
-            SiteVerificationTag: "XYZabc"
+    #analytics:
+        #google:
+        #    SiteVerificationTag: "XYZabc"
+        #bing:
+        #    SiteVerificationTag: "XYZabc"
+        #yandex:
+        #    SiteVerificationTag: "XYZabc"
 
     cover:
         hidden: true # hide everywhere but not in structured data
